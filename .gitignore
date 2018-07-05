@@ -1,0 +1,5 @@
+eventStore/node_modules
+serviceA/node_modules
+serviceB/node_modules
+serviceC/node_modules
+pact
